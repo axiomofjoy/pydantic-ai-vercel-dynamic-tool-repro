@@ -1,0 +1,8 @@
+[project]
+name = "pydantic-ai-vercel-dynamic-tool-repro"
+version = "0.0.0"
+description = "Minimal repro: pydantic_ai's Vercel AI adapter rejects spec-compliant providerExecuted on dynamic-tool parts."
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic-ai-slim>=1.90.0",
+]

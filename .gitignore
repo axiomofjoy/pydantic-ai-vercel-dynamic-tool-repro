@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.python-version
+
+# Node
+node_modules/
+dist/
+.pnpm-debug.log
+
+# Env files
+.env
+
+# OS
+.DS_Store
